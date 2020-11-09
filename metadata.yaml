@@ -1,5 +1,5 @@
-homepage: "https://github.com/precariostecnicos"
-documentation: "https://github.com/precariostecnicos/DocumentCharacterSet"
+homepage: "https://www.luratic.com"
+documentation: "https://www.luratic.com/posts/templates/variables/document-character-set/"
 versions:
   - sha: 22d958e0ef223c470bfdec3a8f1e3fb02d248e76
     changeNotes: Initial release.
