@@ -1,5 +1,9 @@
 homepage: "https://www.luratic.com"
 documentation: "https://www.luratic.com/posts/templates/variables/document-character-set/"
 versions:
+  # Latest version
+  - sha: 5d256b94500ae301a48ffd79d73e66eb435c0115
+    changeNotes: Improve and update documentation.
+  # Older versions  
   - sha: 22d958e0ef223c470bfdec3a8f1e3fb02d248e76
     changeNotes: Initial release.
